@@ -1,6 +1,6 @@
 # custom_bottom_bar
 
-A new Flutter project.
+A constom bottom nav bar created with flutter and using custom paint for the nav bar shape and riverpod state management to manage the state.
 
 ## Getting Started
 
